@@ -101,11 +101,12 @@ img {
   max-width: 100%;
 }
 .contenedor__principal {
-  margin-top: 20rem;  
+  margin-top: 11rem;
   background-color: var(--blanco);
   padding: 2rem;
   border-radius: 1rem;
   box-shadow: 1rem .5rem 3rem rgba(0,0,0,.9);
+  text-align: center;
 }
 @media (min-width: 768px) {
   .main {
